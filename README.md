@@ -14,10 +14,14 @@
 
 <div align="center">
     <h2>🚀 My Personal Projects 🚀</h2>
+    <p><b>📈 math_operations_kit:</b> A versatile Node.js module offering comprehensive math functions, from basic arithmetic to advanced operations like solving quadratic equations.</p>
+    <p><b>💬 Basic Chat:</b> A streamlined chat app featuring private rooms, real-time communication, and a scalable backend.It ensures persistent message storage and efficient performance</p>
+    <p><b>📝 Todo API:</b> A simplified to-do API created with Node.js, Express.js, and MongoDB, easily integrated into other projects.</p>
     <p><b>📦 Inventory Management Tool:</b> A tool designed to help individuals and teams maximize productivity in inventory management.</p>
     <p><b>🛒 Shop Manager:</b> Billing software for recording transactions and generating yearly reports, built with Node.js, Express.js, and MongoDB.</p>
-    <p><b>📝 Todo API:</b> A simplified to-do API created with Node.js, Express.js, and MongoDB, easily integrated into other projects.</p>
-    <p><b>📈 Trading Bot:</b> Retrieves live prices and provides buy signals using Python.</p>
+     <p><b>📈 Trading Bot:</b> Retrieves live prices and provides buy signals using Python.</p>
+    
+   
 </div>
 
 <hr />
@@ -48,7 +52,12 @@
         <img src="https://github-profile-trophy.vercel.app/?username=lokeshleela04" alt="github profile trophy" />
     </a>
 </p>
-
+<p align="center">  <strong >Leetcode stats</strong> </p>
+  
+<p align="center">
+  
+ <img src="https://leetcard.jacoblin.cool/leela_prasad_lokesh?theme=unicorn&font=K2D&ext=heatmap" alt="github profile trophy" />
+</p>
 - 👨‍💻 All of my projects are available at [https://github.com/lokeshleela04](https://github.com/lokeshleela04)
 - 📫 How to reach me **leelaprasad.m22@iiits.in**
 
