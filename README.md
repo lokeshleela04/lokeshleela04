@@ -58,7 +58,8 @@
     <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
     <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
     <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
-    <a href="www.linkedin.com/in/leela-prasad-maturu-6152a4256"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/leela-prasad-maturu-6152a4256"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+
 </p>
 
 <hr />
