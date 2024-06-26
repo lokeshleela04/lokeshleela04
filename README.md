@@ -23,6 +23,11 @@
     
    
 </div>
+<hr>
+
+## Publications
+- [A Comprehensive Guide to Mutual Funds in 2024](https://medium.com/@lp.lok.payu/mutual-funds-in-india-in-2024-a-comprehensive-guide-da4fba59e097) - An in-depth article covering the latest trends and strategies for mutual funds.
+
 
 <hr />
 
